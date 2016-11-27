@@ -1,0 +1,15 @@
+html {
+  font-family: helvetica;
+}
+
+body {
+  margin-top: 60px;
+  background: url("http://38.media.tumblr.com/8ac7b2da5b9d98ff1e8c0e89f9013c84/tumblr_n2r7unz3FG1rwwmgao4_500.gif")no-repeat center center fixed;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
