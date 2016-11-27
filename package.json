@@ -1,0 +1,23 @@
+{
+  "name": "examappw",
+  "version": "1.0.0",
+  "description": "take waec exam online",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oforchinedu/quotes.git"
+  },
+  "author": "Ofor Chinedu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oforchinedu/quotes/issues"
+  },
+  "homepage": "https://github.com/oforchinedu/quotes#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
